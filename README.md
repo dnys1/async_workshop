@@ -1,3 +1,5 @@
 # Dart Async Workshop
 
-Asynchronous and multi-threading workshop for Dart
+[LIVE](https://dartpad.dev/workshops.html?gh_owner=dnys1&gh_repo=async_workshop&gh_ref=main&gh_path=src)
+
+Asynchronous and multi-threading workshop for Dart.
