@@ -1,0 +1,62 @@
+name: Dart Async Workshop
+
+type: dart
+
+steps:
+  - name: Event Loop
+    directory: event_loop
+    has_solution: false
+  - name: Futures 1
+    directory: futures_01
+    has_solution: false
+  - name: Futures 2
+    directory: futures_02
+    has_solution: false
+  - name: Futures 3
+    directory: futures_03
+    has_solution: false
+  - name: Zones 1
+    directory: zones_01
+    has_solution: false
+  - name: Zones 2
+    directory: zones_02
+    has_solution: false
+  - name: Zones 3
+    directory: zones_03
+    has_solution: false
+  - name: Zones 4
+    directory: zones_04
+    has_solution: false
+  - name: Zones 5
+    directory: zones_05
+    has_solution: false
+  - name: Zones 6
+    directory: zones_06
+    has_solution: true
+  - name: Zones 7
+    directory: zones_07
+    has_solution: false
+  - name: Zones 8
+    directory: zones_08
+    has_solution: false
+  - name: Zones 9
+    directory: zones_09
+    has_solution: false
+  - name: Streams 1
+    directory: streams_01
+    has_solution: false
+  - name: Streams 2
+    directory: streams_02
+    has_solution: false
+  - name: Streams 3
+    directory: streams_03
+    has_solution: false
+  - name: Streams 4
+    directory: streams_04
+    has_solution: false
+  - name: Streams 5
+    directory: streams_05
+    has_solution: false
+  - name: Workers 1
+    directory: workers_01
+    has_solution: false
