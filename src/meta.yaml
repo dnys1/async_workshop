@@ -15,6 +15,9 @@ steps:
   - name: Futures 3
     directory: futures_03
     has_solution: false
+  - name: Futures and Event Loop
+    directory: futures_04
+    has_solution: true
   - name: Zones 1
     directory: zones_01
     has_solution: false
